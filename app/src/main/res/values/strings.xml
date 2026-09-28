@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Automotive Media Player</string>
+    <string name="app_title">AUTOMOTIVE MEDIA PLAYER</string>
+    <string name="app_subtitle">Android Automotive IVI Demonstration</string>
+    <string name="song_title">Blinding Lights</string>
+    <string name="artist_name">Demo Artist • IVI Media Service</string>
+
+    <string name="status_ready">Status: Ready</string>
+    <string name="status_playing">Status: Playing</string>
+    <string name="status_paused">Status: Paused</string>
+    <string name="status_stopped">Status: Stopped</string>
+    <string name="status_previous">Previous track selected</string>
+    <string name="status_next">Next track selected</string>
+
+    <string name="time_start">00:00 / 04:00</string>
+
+    <string name="previous">PREVIOUS</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="next">NEXT</string>
+    <string name="stop">STOP</string>
+
+    <string name="demo_note">Demo application: user input is logged to Logcat to demonstrate media-service and audio-stack behavior.</string>
+</resources>
